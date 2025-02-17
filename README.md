@@ -1,5 +1,5 @@
 # Aplikasi Kalkulator Sederhana
-Aplikasi ini dibuat untuk RPL 2024/2025 pada 26 februari 20254
+Aplikasi ini dibuat untuk RPL 2024/2025 pada 26 februari 2025
 
 # Fitur Kalkulator
 Fitur dari kalkulator ini ada operasi dasar matematika seperti penambahan,pengurangan,perkalian maupun pembagian.
